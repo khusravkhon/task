@@ -63,11 +63,28 @@
 
 // Задание #5
 
+// function isLeapYear(date) {
+//     return date % 4 == 0 ? true : false
+// }
 
-function isLeapYear(date) {
-    return Math.floor(date/4);
+
+// console.log(isLeapYear(2023)); // false
+// console.log(isLeapYear(2024)); // true
+
+
+// Задание #6
+
+function getLastDayOfMonth(year, month) {
+    
 }
 
 
-console.log(isLeapYear(2023)); // false
-console.log(isLeapYear(2024)); // true
+
+// июнь 2027
+console.log(getLastDayOfMonth(2027, 5)); // 30
+
+// февраль 2027
+console.log(getLastDayOfMonth(2027, 1)); // 28
+
+// январь 2027
+console.log(getLastDayOfMonth(2027, 0)); // 31
