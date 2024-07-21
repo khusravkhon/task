@@ -1,0 +1,15 @@
+D:\myproject\task\task_finish\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\myproject\task\task_finish\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\myproject\task\task_finish\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\myproject\task\task_finish\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\myproject\task\task_finish\C#\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\myproject\task\task_finish\C#\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
