@@ -1,6 +1,6 @@
 # Task Finish
 
-Welcome to the `task_finish` repository! This repository contains completed tasks and exercises that I have worked on, specifically from platforms like [LeetCode] (https://leetcode.com/) and [Result.school](https://result.school/).
+Welcome to the `task_finish` repository! This repository contains completed tasks and exercises that I have worked on, specifically from platforms like [LeetCode](https://leetcode.com/) and [Result.school](https://result.school/).
 
 ## About
 
