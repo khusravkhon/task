@@ -10,7 +10,7 @@ This repository showcases my progress and solutions to various programming chall
 
 - JavaScript
 - TypeScript
-- C#
+- GO
 
 ## Contact
 
